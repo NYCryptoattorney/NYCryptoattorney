@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NYCryptoattorney
 - 👀 I’m interested in ...startup & crypto law, DAOs, Web3, coding, and all other things related to blockchain technology & the law
 - 🌱 I’m currently learning ...to code
-- 💞️ I’m looking to collaborate on ...with devs & other lawyers 
+- 💞️ I’m looking to collaborate on ...legal projects relating to startups & crypto and DLT
 - 📫 How to reach me ...twitter @NYstartupcrypto, telegram @Manuel P
 
 <!---
